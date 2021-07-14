@@ -1,4 +1,4 @@
-module github.com/bi-zone/go-fileversion
+module github.com/mysteriumnetwork/go-fileversion
 
 go 1.12
 
